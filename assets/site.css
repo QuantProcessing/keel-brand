@@ -245,7 +245,9 @@ fieldset.field { border: 0; margin: 0; padding: 0; }
   .principle, .principle:first-child, .principle:last-child { border-radius: 5px; }
   .contact { grid-template-columns: 1fr; }
   .nav { display: none; }
-  .menu-btn { display: inline-grid; place-items: center; margin-left: auto; }
+  .menu-btn { display: inline-grid; place-items: center; }
+  .header-actions { margin-left: auto; }
+  .site-header .wrap { gap: 12px; }
   .site-header.open .nav {
     display: flex; flex-direction: column; position: absolute; top: 64px; left: 0; right: 0;
     background: var(--surface); border-bottom: 1px solid var(--border); padding: 8px var(--gutter) 16px;
