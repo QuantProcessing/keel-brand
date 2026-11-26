@@ -5,7 +5,7 @@ assets of the Keel products. Served by Cloudflare Pages at <https://hxskdigi.tec
 (繁體中文 `/`, English `/en/`).
 
 Plain static files: no build step, no backend. The trial form opens the visitor's
-mail client addressed to hongxiaodigitech@gmail.com; the site stores nothing.
+mail client addressed to contact@hxskdigi.tech; the site stores nothing.
 
 | Path | What |
 |---|---|

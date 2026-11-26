@@ -1,7 +1,7 @@
 // Menu, copy-email, and the trial form. The site is static: the form opens the
 // visitor's mail client with the request filled in (no backend, nothing stored).
 (function () {
-  var EMAIL = "hongxiaodigitech@gmail.com";
+  var EMAIL = "contact@hxskdigi.tech";
   var lang = document.documentElement.lang.indexOf("zh") === 0 ? "zh" : "en";
   var t = {
     zh: { copied: "已複製", subject: "申請試用", name: "姓名", email: "電郵", org: "機構", products: "感興趣的產品", msg: "需求說明", none: "未填寫" },
