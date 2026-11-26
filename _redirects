@@ -1,0 +1,4 @@
+# English moved from /en/ to /; keep old links working.
+/en    /       301
+/en/   /       301
+/en/*  /:splat 301

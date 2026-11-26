@@ -2,18 +2,19 @@
 
 The website of 鴻驍數科有限公司 / HongXiao DigiTech Co., Limited and the public brand
 assets of the Keel products. Served by Cloudflare Pages at <https://hxskdigi.tech>
-(繁體中文 `/`, English `/en/`).
+(English `/`, 繁體中文 `/zh/`).
 
 Plain static files: no build step, no backend. The trial form opens the visitor's
 mail client addressed to contact@hxskdigi.tech; the site stores nothing.
 
 | Path | What |
 |---|---|
-| `index.html`, `en/index.html` | The landing page, 繁體中文 and English. Keep the two in step |
+| `index.html`, `zh/index.html` | The landing page, English (the default) and 繁體中文. Keep the two in step |
 | `404.html` | Not-found page |
 | `assets/site.css`, `assets/site.js` | Styles and the small script (menu, copy email, trial form) |
 | `assets/fonts/` | Inter Variable (latin, latin-ext), self-hosted |
 | `_headers` | Cloudflare Pages response headers: security headers and CSP for the site; CORS and caching for `logo/` |
+| `_redirects` | `/en/` (English's old address) to `/` |
 | `robots.txt`, `sitemap.xml` | For search engines |
 | `logo/` | The marks (below). Other pages load these paths — do not move or rename them |
 

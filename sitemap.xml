@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hxskdigi.tech/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://hxskdigi.tech/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hxskdigi.tech/en/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hxskdigi.tech/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://hxskdigi.tech/zh/"/>
   </url>
   <url>
-    <loc>https://hxskdigi.tech/en/</loc>
-    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://hxskdigi.tech/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hxskdigi.tech/en/"/>
+    <loc>https://hxskdigi.tech/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hxskdigi.tech/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://hxskdigi.tech/zh/"/>
   </url>
 </urlset>
